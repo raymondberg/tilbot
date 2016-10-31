@@ -1,0 +1,6 @@
+bot_name: tilbot
+bot_user_id: A111111
+allow_trusted_commands: B111111
+trusted_user_id: C111111
+bot_home_channel_id: D1111111
+cron_ping_frequency_seconds: 43200
